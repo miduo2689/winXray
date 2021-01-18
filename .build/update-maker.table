@@ -1,0 +1,6 @@
+{
+updateUrl="https://raw.githubusercontent.com/winXray/winXray/master/release/update/";
+singleFile=1;
+description="发布 v3.2 优化 SSR 配置参数, 优化 Xray Core 兼容等";
+outputDir="/release/update/"
+}

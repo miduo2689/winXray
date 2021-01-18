@@ -1,0 +1,8 @@
+{
+    "description":"发布 v3.2 优化 SSR 配置参数等",
+    "format":".lzma",
+    "main":"\\winXray.exe",
+    "updater":"\\winXray.exe",
+    "url":"https://raw.githubusercontent.com/winXray/winXray/master/release/update/",
+    "version":"3.2"
+}
